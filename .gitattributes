@@ -1,0 +1,11 @@
+*         text
+# These files are text and should be normalized (convert crlf => lf)
+*         ext eol=lf
+# 二进制文件，防止修改
+*.jpg   binary
+*.png   binary
+*.gif   binary
+#*.svg   binary
+#*.eot   binary
+#*.woff   binary
+#*.ttf   binary
