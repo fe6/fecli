@@ -1,0 +1,33 @@
+{
+  "name": "@fe6/rcli",
+  "version": "0.0.1",
+  "description": "开发 react 组件的脚手架",
+  "bin": {
+    "rcli": "./bin/rcli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fe6/rcli.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-components",
+    "react-cli",
+    "cli"
+  ],
+  "author": "李梦龙",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fe6/rcli/issues"
+  },
+  "homepage": "https://github.com/fe6/rcli#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "colorful": "^2.1.0",
+    "commander": "^2.15.1",
+    "ora": "^2.0.0"
+  }
+}
