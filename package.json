@@ -1,9 +1,9 @@
 {
-  "name": "@fe6/rcli",
+  "name": "@fe6/fecli",
   "version": "0.0.1",
   "description": "开发 react 组件的脚手架",
   "bin": {
-    "rcli": "./bin/rcli.js"
+    "fe": "./bin/fe.js"
   },
   "repository": {
     "type": "git",
