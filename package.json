@@ -7,13 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fe6/rcli.git"
+    "url": "git+https://github.com/fe6/fecli.git"
   },
   "keywords": [
     "react",
     "react-component",
     "react-components",
     "react-cli",
+    "fecli",
+    "fe-cli",
     "cli"
   ],
   "author": "李梦龙",
