@@ -1,7 +1,7 @@
 {
   "name": "@fe6/fecli",
   "version": "0.1.0",
-  "description": "开发 react 组件的脚手架",
+  "description": "开发 react 或者 Vue.js 组件的脚手架，一键下载 github 仓库作为模板",
   "bin": {
     "fe": "./bin/fe.js"
   },
