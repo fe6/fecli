@@ -2,6 +2,11 @@
 
 > 一键下载 github 仓库作为模板
 
+## 安装
+
+```
+$ npm install -g @fe6/fecli
+```
 
 ## 使用
 

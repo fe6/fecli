@@ -1,6 +1,6 @@
 {
   "name": "@fe6/fecli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "一键下载 github 仓库作为模板",
   "bin": {
     "fe": "./bin/fe.js"
