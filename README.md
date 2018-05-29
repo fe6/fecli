@@ -2,6 +2,10 @@
 
 > 一键下载 github 仓库作为模板
 
+[![@fe6/fecli](https://img.shields.io/npm/v/@fe6/fecli.svg?style=flat-square)](https://www.npmjs.org/package/@fe6/fecli)
+[![NPM downloads](http://img.shields.io/npm/dm/@fe6/fecli.svg?style=flat-square)](https://npmjs.org/package/@fe6/fecli)
+[![NPM downloads](https://img.shields.io/npm/dt/@fe6/fecli.svg?style=flat-square)](https://npmjs.org/package/@fe6/fecli)
+
 ## 安装
 
 ```
